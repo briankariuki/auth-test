@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "543739011560",
+    "project_id": "farwell-interview",
+    "storage_bucket": "farwell-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543739011560:android:9ad84b2b220b773363845d",
+        "android_client_info": {
+          "package_name": "com.example.auth_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543739011560-g6qmm78dts84rr1r0h39d27hofetrhnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wM6F8aD2z86JvrWfB09VIhf8oiTbXzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543739011560-g6qmm78dts84rr1r0h39d27hofetrhnq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543739011560-lkc9cpv93a4cpvg4cqbdvj3m0r6tlumj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
